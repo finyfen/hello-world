@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-hope I can marster it ASAP
+hope I can master it ASAP
